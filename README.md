@@ -29,7 +29,8 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 
 ## Challenges Included
 
-### Python
+<details>
+  <summary><h3>Python</h3></summary>
 
 **1. Control Flow**
 - food_ratings.py
@@ -58,26 +59,29 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 - Split_The_Ball.py
 - DNA.py
 
-<details>
-  <summary><h3>JavaScript</h3></summary>
-  
-  **1. Conditionals**
-  - Nite_Owl.js
-  - Michelin_Stars.js
-  - TGIF.js
-  - Decades.js
-  - Fitness_Routine.js
-  
-  **2. Loops**
-  - Blast_Off.js
-  - Swag_Raffle.js
-  - Odd_Cubes.js
-  - Dice_Doubles.js
-  - Fibonacci_Sequence.js
-  
 </details>
 
-### HTML
+<details>
+  <summary><h3>JavaScript</h3></summary>
+
+**1. Conditionals**
+- Nite_Owl.js
+- Michelin_Stars.js
+- TGIF.js
+- Decades.js
+- Fitness_Routine.js
+
+**2. Loops**
+- Blast_Off.js
+- Swag_Raffle.js
+- Odd_Cubes.js
+- Dice_Doubles.js
+- Fibonacci_Sequence.js
+
+</details>
+
+<details>
+  <summary><h3>HTML</h3></summary>
 
 **1. Elements**
 - Garage_Sale.html
@@ -95,7 +99,8 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 - I_Spy.html
 - Julien's_Art_Mart.html
 
+</details>
+
 ## License
 
 See LICENSE.md for details.
-
