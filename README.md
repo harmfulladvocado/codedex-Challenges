@@ -95,3 +95,9 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 ## License
 
 See LICENSE.md for details.
+
+
+<details>
+  <summary>Click to expand</summary>
+  test
+<details.>
