@@ -7,30 +7,30 @@ Challenge solutions from [Codedex.io](https://www.codedex.io), organized by lang
 ### Python
 
 | Folder | Topics Covered |
-| --- | --- |
-| 1.Python Control Flow | if/elif/else, conditionals, logical operators |
-| 2.Python Loops | while loops, for loops, range() |
-| 3.Functions | defining functions, parameters, return values |
-| 4.Lists | list creation, indexing, loops, mutation |
+|--------|-----------------|
+| 1. Python Control Flow | if/elif/else, conditionals, logical operators |
+| 2. Python Loops | while loops, for loops, range() |
+| 3. Functions | defining functions, parameters, return values |
+| 4. Lists | list creation, indexing, loops, mutation |
 
 ### JavaScript
 
 | Folder | Topics Covered |
-| --- | --- |
-| 1.Conditionals | if/else, comparison operators, logical operators |
-| 2.Loops | for loops, while loops, loop control |
+|--------|-----------------|
+| 1. Conditionals | if/else, comparison operators, logical operators |
+| 2. Loops | for loops, while loops, loop control |
 
 ### HTML
 
 | Folder | Topics Covered |
-| --- | --- |
-| 1.Elements | semantic HTML, common tags, attributes |
-| 2.Structure | document structure, layout, organization |
+|--------|-----------------|
+| 1. Elements | semantic HTML, common tags, attributes |
+| 2. Structure | document structure, layout, organization |
 
 ### Java
 
 | Folder | Topics Covered |
-| --- | --- |
+|--------|-----------------|
 | 1. Control Flow | if/else statements, logical operators, conditional logic |
 
 ## Challenges Included
